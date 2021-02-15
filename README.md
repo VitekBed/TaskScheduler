@@ -1,3 +1,5 @@
+# FORK OF https://github.com/dahall/taskscheduler BY dahall
+
 # ![](docs/icons/tsnew48.png) Task Scheduler Managed Wrapper
 [![Version](https://img.shields.io/github/release/dahall/TaskScheduler.svg?style=flat-square)](https://github.com/dahall/TaskScheduler/releases) [![Downloads](https://img.shields.io/nuget/dt/TaskScheduler.svg?style=flat-square)](https://www.nuget.org/packages/TaskScheduler/) [![Build status](https://ci.appveyor.com/api/projects/status/entp0dead4840cwm?svg=true)](https://ci.appveyor.com/project/dahall/taskscheduler)
 
